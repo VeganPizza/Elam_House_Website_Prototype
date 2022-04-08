@@ -1,0 +1,2 @@
+Website Prototype for Elam House, Chicago. This project is part of the Spring 2022 IPRO Community Lab at Illinois Institute of Technology. The website is still in development and will be finalized by April 18th.
+To run the code, open an IDE (IntelliJ IDEA, VScode, or other), go to index.html in the pages folder and click on the chrome browser option. The website will appear on your local browser and you can navigate through the pages.
